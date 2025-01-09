@@ -47,8 +47,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sami3l/sami3l/output/snake.svg" alt="Snake animation" />
 
 ###

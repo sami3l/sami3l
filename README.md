@@ -1,10 +1,13 @@
-<h2 align="left">Hi 👋! My name is Sami Elhadraoui and I'm a Software Engineer Student , from Morocco.</h2>
+<h2 align="left">Hi 👋! My name is Sami Elhadraoui, and I'm a Software Engineering student from Morocco.</h2>
 
+### 👨‍💻 About Me
+- 🎓 I'm currently studying Software Engineering
+- 🌱 Learning full-stack web dev & clean architecture
+- 💬 Ask me about TypeScript, React, or C#
 ###
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sami3l&theme=dracula" />
-
 </div>
 
 ###

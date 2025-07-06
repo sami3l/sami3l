@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **Both Machine and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [[https://sami-folio.vercel.app/](https://sami-folio.vercel.app/)](https://myportfolio-sami3ls-projects.vercel.app/)
-
+- 👨‍💻 All of my projects are available at [https://sami-folio.vercel.app/](https://sami-folio.vercel.app/)]
 - 💬 Ask me about **react, nextjs, springboot, python, react native**
 
 - 📫 How to reach me **elhadraoui.sami@emsi-edu.ma**

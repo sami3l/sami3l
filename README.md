@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Both Machine and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://sami-folio.vercel.app/](https://react-portfolio-eight-dusky-41.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://react-portfolio-eight-dusky-41.vercel.app/)
   
 - 💬 Ask me about **react, nextjs, springboot, python, react native**
 

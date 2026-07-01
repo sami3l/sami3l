@@ -37,4 +37,3 @@ I design and operate Kubernetes platforms, GitOps pipelines, and CI/CD workflows
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elhadraoui-sami)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sami3l&show_icons=true&theme=default)

@@ -8,7 +8,7 @@ I design and operate Kubernetes platforms, GitOps pipelines, and CI/CD workflows
 - 🛠️ Working daily with **Docker, Helm, GitLab CI/CD, Harbor, Prometheus & Grafana**
 - 🌱 Currently deepening my skills in **Terraform, Ansible & public cloud (AWS/Azure)**
 - 🎓 Final-year Software Engineering student @ École Marocaine des Sciences de l'Ingénieur (EMSI)
-- 📄 More about my experience: [LinkedIn](https://www.linkedin.com/in/elhadraoui-sami) · [Portfolio](https://sami-folio.vercel.app/)
+- 📄 More about my experience: [LinkedIn](https://www.linkedin.com/in/elhadraoui-sami) · [Portfolio](https://sami3l.github.io/portfolio-cs1.6-theme/)
 - 📫 Reach me at **elhadraoui.sami.iir@gmail.com**
 
 ### Tech Stack
